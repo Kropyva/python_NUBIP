@@ -1,0 +1,1200 @@
+ID: 1b8c28ba-08ea-4f9e-8c34-e5fb706ed687
+Rank: 4
+Country: Europe
+Two Letter Symbol: fr
+Three Letter Symbol: fra
+Infection Risk: 8.81
+Case Fatality Rate: 1.92
+Recovery Proporation: 97.06
+Total Cases: 5766315
+New Cases: 0
+Total Deaths: 110939
+New Deaths: 0
+Total Recovered: 5596744
+New Recovered: 0
+Total Cases: 58632
+Total Tests: 92004378
+Population: 65415404
+One Case Every X PPL: 11
+One Death Every X PPL: 590
+One Test Every X PPL:1
+Deaths 1M POP: 1696
+Serious Critical: 1389
+Tests 1M POP: 1406463
+Total Cases 1M POP: 88149
+
+ID: 9589e71c-f9a7-4474-ade1-5e6c7dece89c
+Rank: 5
+Country: Europe
+Two Letter Symbol: ru
+Three Letter Symbol: rus
+Infection Risk: 3.7
+Case Fatality Rate: 2.44
+Recovery Proporation: 91.14
+Total Cases: 5409088
+New Cases: 0
+Total Deaths: 132064
+New Deaths: 0
+Total Recovered: 4929639
+New Recovered: 0
+Total Cases: 347385
+Total Tests: 147400000
+Population: 145995960
+One Case Every X PPL: 27
+One Death Every X PPL: 1105
+One Test Every X PPL:1
+Deaths 1M POP: 905
+Serious Critical: 2300
+Tests 1M POP: 1009617
+Total Cases 1M POP: 37050
+
+ID: 6a903d59-178b-4eb8-8fd8-a2192db87544
+Rank: 7
+Country: Europe
+Two Letter Symbol: gb
+Three Letter Symbol: gbr
+Infection Risk: 6.89
+Case Fatality Rate: 2.72
+Recovery Proporation: 91.75
+Total Cases: 4699868
+New Cases: 0
+Total Deaths: 128066
+New Deaths: 0
+Total Recovered: 4312164
+New Recovered: 0
+Total Cases: 259638
+Total Tests: 207164164
+Population: 68236097
+One Case Every X PPL: 15
+One Death Every X PPL: 533
+One Test Every X PPL:0
+Deaths 1M POP: 1877
+Serious Critical: 259
+Tests 1M POP: 3035991
+Total Cases 1M POP: 68877
+
+ID: 92d90aee-b4e2-433f-9dd9-02e6735f5352
+Rank: 9
+Country: Europe
+Two Letter Symbol: it
+Three Letter Symbol: ita
+Infection Risk: 7.05
+Case Fatality Rate: 2.99
+Recovery Proporation: 95.59
+Total Cases: 4256451
+New Cases: 0
+Total Deaths: 127418
+New Deaths: 0
+Total Recovered: 4068798
+New Recovered: 0
+Total Cases: 60235
+Total Tests: 70769618
+Population: 60374416
+One Case Every X PPL: 14
+One Death Every X PPL: 474
+One Test Every X PPL:1
+Deaths 1M POP: 2110
+Serious Critical: 306
+Tests 1M POP: 1172179
+Total Cases 1M POP: 70501
+
+ID: 04b984a1-04de-4e2e-8830-116710413fe6
+Rank: 11
+Country: Europe
+Two Letter Symbol: es
+Three Letter Symbol: esp
+Infection Risk: 8.09
+Case Fatality Rate: 2.14
+Recovery Proporation: 94.54
+Total Cases: 3782463
+New Cases: 0
+Total Deaths: 80779
+New Deaths: 0
+Total Recovered: 3575883
+New Recovered: 0
+Total Cases: 125801
+Total Tests: 51240666
+Population: 46772576
+One Case Every X PPL: 12
+One Death Every X PPL: 579
+One Test Every X PPL:1
+Deaths 1M POP: 1727
+Serious Critical: 641
+Tests 1M POP: 1095528
+Total Cases 1M POP: 80869
+
+ID: c3fe0621-5fda-40d2-afae-ca122c684a1f
+Rank: 12
+Country: Europe
+Two Letter Symbol: de
+Three Letter Symbol: deu
+Infection Risk: 4.44
+Case Fatality Rate: 2.44
+Recovery Proporation: 96.92
+Total Cases: 3733525
+New Cases: 0
+Total Deaths: 91247
+New Deaths: 0
+Total Recovered: 3618400
+New Recovered: 1600
+Total Cases: 23878
+Total Tests: 63091197
+Population: 84047070
+One Case Every X PPL: 23
+One Death Every X PPL: 921
+One Test Every X PPL:1
+Deaths 1M POP: 1086
+Serious Critical: 889
+Tests 1M POP: 750665
+Total Cases 1M POP: 44422
+
+ID: 9947fda2-1522-4f1e-af49-7a9e3d8c4be7
+Rank: 14
+Country: Europe
+Two Letter Symbol: pl
+Three Letter Symbol: pol
+Infection Risk: 7.62
+Case Fatality Rate: 2.6
+Recovery Proporation: 92.07
+Total Cases: 2879470
+New Cases: 0
+Total Deaths: 74953
+New Deaths: 0
+Total Recovered: 2651209
+New Recovered: 0
+Total Cases: 153308
+Total Tests: 17163586
+Population: 37805861
+One Case Every X PPL: 13
+One Death Every X PPL: 504
+One Test Every X PPL:2
+Deaths 1M POP: 1983
+Serious Critical: 185
+Tests 1M POP: 453993
+Total Cases 1M POP: 76165
+
+ID: f45ad813-1d7f-4f6f-b986-95bf1601b9c4
+Rank: 16
+Country: Europe
+Two Letter Symbol: ua
+Three Letter Symbol: ukr
+Infection Risk: 5.14
+Case Fatality Rate: 2.34
+Recovery Proporation: 96.8
+Total Cases: 2233546
+New Cases: 756
+Total Deaths: 52269
+New Deaths: 35
+Total Recovered: 2161972
+New Recovered: 1835
+Total Cases: 19305
+Total Tests: 10780868
+Population: 43475205
+One Case Every X PPL: 19
+One Death Every X PPL: 832
+One Test Every X PPL:4
+Deaths 1M POP: 1202
+Serious Critical: 177
+Tests 1M POP: 247977
+Total Cases 1M POP: 51375
+
+ID: 40bd327c-e2fa-4ce6-a1d5-1bdb4617e11c
+Rank: 20
+Country: Europe
+Two Letter Symbol: nl
+Three Letter Symbol: nld
+Infection Risk: 9.8
+Case Fatality Rate: 1.05
+Recovery Proporation: 96.09
+Total Cases: 1682221
+New Cases: 0
+Total Deaths: 17740
+New Deaths: 0
+Total Recovered: 1616398
+New Recovered: 0
+Total Cases: 48083
+Total Tests: 14596733
+Population: 17172118
+One Case Every X PPL: 10
+One Death Every X PPL: 968
+One Test Every X PPL:1
+Deaths 1M POP: 1033
+Serious Critical: 162
+Tests 1M POP: 850025
+Total Cases 1M POP: 97962
+
+ID: d351a25f-6288-463e-8612-6110428ea36e
+Rank: 21
+Country: Europe
+Two Letter Symbol: cz
+Three Letter Symbol: cze
+Infection Risk: 15.54
+Case Fatality Rate: 1.82
+Recovery Proporation: 98.06
+Total Cases: 1666686
+New Cases: 0
+Total Deaths: 30292
+New Deaths: 0
+Total Recovered: 1634292
+New Recovered: 0
+Total Cases: 2102
+Total Tests: 28624080
+Population: 10728500
+One Case Every X PPL: 6
+One Death Every X PPL: 354
+One Test Every X PPL:0
+Deaths 1M POP: 2824
+Serious Critical: 12
+Tests 1M POP: 2668041
+Total Cases 1M POP: 155351
+
+ID: e069e350-bfdb-4291-9f22-116d5a7f86ce
+Rank: 26
+Country: Europe
+Two Letter Symbol: se
+Three Letter Symbol: swe
+Infection Risk: 10.72
+Case Fatality Rate: 1.34
+Recovery Proporation: 96.78
+Total Cases: 1088896
+New Cases: 0
+Total Deaths: 14584
+New Deaths: 0
+Total Recovered: 1053886
+New Recovered: 1419
+Total Cases: 20426
+Total Tests: 10574760
+Population: 10161073
+One Case Every X PPL: 9
+One Death Every X PPL: 697
+One Test Every X PPL:1
+Deaths 1M POP: 1435
+Serious Critical: 64
+Tests 1M POP: 1040713
+Total Cases 1M POP: 107163
+
+ID: 68505d1a-cf1b-4308-83db-1cf547d87ce8
+Rank: 27
+Country: Europe
+Two Letter Symbol: be
+Three Letter Symbol: bel
+Infection Risk: 9.3
+Case Fatality Rate: 2.32
+Recovery Proporation: 94.66
+Total Cases: 1082476
+New Cases: 568
+Total Deaths: 25160
+New Deaths: 8
+Total Recovered: 1024673
+New Recovered: 0
+Total Cases: 32643
+Total Tests: 15022137
+Population: 11639150
+One Case Every X PPL: 11
+One Death Every X PPL: 463
+One Test Every X PPL:1
+Deaths 1M POP: 2162
+Serious Critical: 175
+Tests 1M POP: 1290656
+Total Cases 1M POP: 93003
+
+ID: 6fbff074-bda2-4377-820c-f13cc5eb9d1e
+Rank: 28
+Country: Europe
+Two Letter Symbol: ro
+Three Letter Symbol: rou
+Infection Risk: 5.65
+Case Fatality Rate: 3.05
+Recovery Proporation: 96.74
+Total Cases: 1080522
+New Cases: 0
+Total Deaths: 32911
+New Deaths: 0
+Total Recovered: 1045351
+New Recovered: 0
+Total Cases: 2260
+Total Tests: 9694315
+Population: 19111387
+One Case Every X PPL: 18
+One Death Every X PPL: 581
+One Test Every X PPL:2
+Deaths 1M POP: 1722
+Serious Critical: 121
+Tests 1M POP: 507253
+Total Cases 1M POP: 56538
+
+ID: b1473540-a75f-499d-b2ae-9de5719349db
+Rank: 31
+Country: Europe
+Two Letter Symbol: pt
+Three Letter Symbol: prt
+Infection Risk: 8.57
+Case Fatality Rate: 1.96
+Recovery Proporation: 94.55
+Total Cases: 871483
+New Cases: 0
+Total Deaths: 17081
+New Deaths: 0
+Total Recovered: 823960
+New Recovered: 0
+Total Cases: 30442
+Total Tests: 12926064
+Population: 10167470
+One Case Every X PPL: 12
+One Death Every X PPL: 595
+One Test Every X PPL:1
+Deaths 1M POP: 1680
+Serious Critical: 108
+Tests 1M POP: 1271316
+Total Cases 1M POP: 85713
+
+ID: 3c448d6c-319f-4aff-8bc9-cc1684e86f76
+Rank: 33
+Country: Europe
+Two Letter Symbol: hu
+Three Letter Symbol: hun
+Infection Risk: 8.38
+Case Fatality Rate: 3.71
+Recovery Proporation: 91.25
+Total Cases: 807910
+New Cases: 0
+Total Deaths: 29980
+New Deaths: 0
+Total Recovered: 737233
+New Recovered: 0
+Total Cases: 40697
+Total Tests: 6094415
+Population: 9636229
+One Case Every X PPL: 12
+One Death Every X PPL: 321
+One Test Every X PPL:2
+Deaths 1M POP: 3111
+Serious Critical: 22
+Tests 1M POP: 632448
+Total Cases 1M POP: 83841
+
+ID: 2560ae3d-990f-4f01-b1e0-6b4584b79312
+Rank: 37
+Country: Europe
+Two Letter Symbol: rs
+Three Letter Symbol: srb
+Infection Risk: 8.23
+Case Fatality Rate: 0.98
+Recovery Proporation: 98.67
+Total Cases: 716172
+New Cases: 0
+Total Deaths: 7024
+New Deaths: 0
+Total Recovered: 706659
+New Recovered: 0
+Total Cases: 2489
+Total Tests: 4377474
+Population: 8702751
+One Case Every X PPL: 12
+One Death Every X PPL: 1239
+One Test Every X PPL:2
+Deaths 1M POP: 807
+Serious Critical: 13
+Tests 1M POP: 502999
+Total Cases 1M POP: 82293
+
+ID: f11fae09-2450-4082-b255-d7005c65ce1c
+Rank: 38
+Country: Europe
+Two Letter Symbol: ch
+Three Letter Symbol: che
+Infection Risk: 8.06
+Case Fatality Rate: 1.55
+Recovery Proporation: 96.83
+Total Cases: 702507
+New Cases: 0
+Total Deaths: 10882
+New Deaths: 0
+Total Recovered: 680251
+New Recovered: 0
+Total Cases: 11374
+Total Tests: 8221551
+Population: 8716726
+One Case Every X PPL: 12
+One Death Every X PPL: 801
+One Test Every X PPL:1
+Deaths 1M POP: 1248
+Serious Critical: 60
+Tests 1M POP: 943193
+Total Cases 1M POP: 80593
+
+ID: 3d92d669-e6aa-498e-9b96-7b41234ebd95
+Rank: 39
+Country: Europe
+Two Letter Symbol: at
+Three Letter Symbol: aut
+Infection Risk: 7.18
+Case Fatality Rate: 1.65
+Recovery Proporation: 98.01
+Total Cases: 650016
+New Cases: 0
+Total Deaths: 10700
+New Deaths: 0
+Total Recovered: 637051
+New Recovered: 0
+Total Cases: 2265
+Total Tests: 53295938
+Population: 9056842
+One Case Every X PPL: 14
+One Death Every X PPL: 846
+One Test Every X PPL:0
+Deaths 1M POP: 1181
+Serious Critical: 69
+Tests 1M POP: 5884605
+Total Cases 1M POP: 71771
+
+ID: 127b4393-4e16-4139-a7a0-41411c7040cd
+Rank: 47
+Country: Europe
+Two Letter Symbol: bg
+Three Letter Symbol: bgr
+Infection Risk: 6.11
+Case Fatality Rate: 4.28
+Recovery Proporation: 93.5
+Total Cases: 421487
+New Cases: 0
+Total Deaths: 18026
+New Deaths: 0
+Total Recovered: 394091
+New Recovered: 0
+Total Cases: 9370
+Total Tests: 3132792
+Population: 6896957
+One Case Every X PPL: 16
+One Death Every X PPL: 383
+One Test Every X PPL:2
+Deaths 1M POP: 2614
+Serious Critical: 196
+Tests 1M POP: 454228
+Total Cases 1M POP: 61112
+
+ID: 6899678a-6b0a-4fce-8e24-303b95942427
+Rank: 48
+Country: Europe
+Two Letter Symbol: gr
+Three Letter Symbol: grc
+Infection Risk: 4.05
+Case Fatality Rate: 3
+Recovery Proporation: 95.73
+Total Cases: 420295
+New Cases: 0
+Total Deaths: 12625
+New Deaths: 0
+Total Recovered: 402329
+New Recovered: 0
+Total Cases: 5341
+Total Tests: 10468182
+Population: 10372964
+One Case Every X PPL: 25
+One Death Every X PPL: 822
+One Test Every X PPL:1
+Deaths 1M POP: 1217
+Serious Critical: 239
+Tests 1M POP: 1009179
+Total Cases 1M POP: 40518
+
+ID: 2cecb4a2-8b1f-402b-a846-023658bd7408
+Rank: 51
+Country: Europe
+Two Letter Symbol: by
+Three Letter Symbol: blr
+Infection Risk: 4.38
+Case Fatality Rate: 0.75
+Recovery Proporation: 98.24
+Total Cases: 413952
+New Cases: 0
+Total Deaths: 3093
+New Deaths: 0
+Total Recovered: 406686
+New Recovered: 0
+Total Cases: 4173
+Total Tests: 6720932
+Population: 9446268
+One Case Every X PPL: 23
+One Death Every X PPL: 3054
+One Test Every X PPL:1
+Deaths 1M POP: 327
+Serious Critical: 0
+Tests 1M POP: 711491
+Total Cases 1M POP: 43822
+
+ID: 38386a14-970b-4c1c-905c-0c1987970bca
+Rank: 54
+Country: Europe
+Two Letter Symbol: sk
+Three Letter Symbol: svk
+Infection Risk: 7.17
+Case Fatality Rate: 3.19
+Recovery Proporation: 96.65
+Total Cases: 391490
+New Cases: 0
+Total Deaths: 12505
+New Deaths: 0
+Total Recovered: 378388
+New Recovered: 0
+Total Cases: 597
+Total Tests: 2938855
+Population: 5462241
+One Case Every X PPL: 14
+One Death Every X PPL: 437
+One Test Every X PPL:2
+Deaths 1M POP: 2289
+Serious Critical: 30
+Tests 1M POP: 538031
+Total Cases 1M POP: 71672
+
+ID: 98405b7b-7700-41a4-b898-46ca71f57c7d
+Rank: 58
+Country: Europe
+Two Letter Symbol: hr
+Three Letter Symbol: hrv
+Infection Risk: 8.81
+Case Fatality Rate: 2.28
+Recovery Proporation: 97.57
+Total Cases: 359521
+New Cases: 0
+Total Deaths: 8196
+New Deaths: 0
+Total Recovered: 350773
+New Recovered: 0
+Total Cases: 552
+Total Tests: 2128519
+Population: 4080353
+One Case Every X PPL: 11
+One Death Every X PPL: 498
+One Test Every X PPL:2
+Deaths 1M POP: 2009
+Serious Critical: 13
+Tests 1M POP: 521651
+Total Cases 1M POP: 88110
+
+ID: 4fbee5a7-0c5e-4973-9d25-1fd9afc02275
+Rank: 63
+Country: Europe
+Two Letter Symbol: dk
+Three Letter Symbol: dnk
+Infection Risk: 5.03
+Case Fatality Rate: 0.87
+Recovery Proporation: 98.02
+Total Cases: 292574
+New Cases: 0
+Total Deaths: 2531
+New Deaths: 0
+Total Recovered: 286787
+New Recovered: 0
+Total Cases: 3256
+Total Tests: 67090199
+Population: 5812234
+One Case Every X PPL: 20
+One Death Every X PPL: 2296
+One Test Every X PPL:0
+Deaths 1M POP: 435
+Serious Critical: 17
+Tests 1M POP: 11542928
+Total Cases 1M POP: 50338
+
+ID: fb5faa6e-1838-4c12-b9a2-921c8fdcc159
+Rank: 66
+Country: Europe
+Two Letter Symbol: lt
+Three Letter Symbol: ltu
+Infection Risk: 10.38
+Case Fatality Rate: 1.57
+Recovery Proporation: 95.89
+Total Cases: 278608
+New Cases: 0
+Total Deaths: 4378
+New Deaths: 0
+Total Recovered: 267155
+New Recovered: 0
+Total Cases: 7075
+Total Tests: 3717121
+Population: 2684855
+One Case Every X PPL: 10
+One Death Every X PPL: 613
+One Test Every X PPL:1
+Deaths 1M POP: 1631
+Serious Critical: 50
+Tests 1M POP: 1384477
+Total Cases 1M POP: 103770
+
+ID: 5639444d-a519-41ce-916a-6b77bdd23e15
+Rank: 68
+Country: Europe
+Two Letter Symbol: ie
+Three Letter Symbol: irl
+Infection Risk: 5.42
+Case Fatality Rate: 1.84
+Recovery Proporation: 94.23
+Total Cases: 270477
+New Cases: 0
+Total Deaths: 4989
+New Deaths: 0
+Total Recovered: 254874
+New Recovered: 0
+Total Cases: 10614
+Total Tests: 4729538
+Population: 4991855
+One Case Every X PPL: 18
+One Death Every X PPL: 1001
+One Test Every X PPL:1
+Deaths 1M POP: 999
+Serious Critical: 13
+Tests 1M POP: 947451
+Total Cases 1M POP: 54184
+
+ID: 453b9bc5-484d-45d2-86d5-ffa5f74ddb48
+Rank: 72
+Country: Europe
+Two Letter Symbol: si
+Three Letter Symbol: svn
+Infection Risk: 12.37
+Case Fatality Rate: 1.72
+Recovery Proporation: 97.9
+Total Cases: 257210
+New Cases: 0
+Total Deaths: 4417
+New Deaths: 0
+Total Recovered: 251815
+New Recovered: 0
+Total Cases: 978
+Total Tests: 1341183
+Population: 2079219
+One Case Every X PPL: 8
+One Death Every X PPL: 471
+One Test Every X PPL:2
+Deaths 1M POP: 2124
+Serious Critical: 20
+Tests 1M POP: 645042
+Total Cases 1M POP: 123705
+
+ID: 640ad400-4709-48cd-8cea-bc84e7be4962
+Rank: 74
+Country: Europe
+Two Letter Symbol: md
+Three Letter Symbol: mda
+Infection Risk: 6.37
+Case Fatality Rate: 2.41
+Recovery Proporation: 97.27
+Total Cases: 256475
+New Cases: 0
+Total Deaths: 6182
+New Deaths: 0
+Total Recovered: 249465
+New Recovered: 0
+Total Cases: 828
+Total Tests: 1238936
+Population: 4024744
+One Case Every X PPL: 16
+One Death Every X PPL: 651
+One Test Every X PPL:3
+Deaths 1M POP: 1536
+Serious Critical: 47
+Tests 1M POP: 307830
+Total Cases 1M POP: 63725
+
+ID: a09c7ef6-1a7f-485b-8d27-f0f369f0e380
+Rank: 79
+Country: Europe
+Two Letter Symbol: ba
+Three Letter Symbol: bih
+Infection Risk: 6.29
+Case Fatality Rate: 4.71
+Recovery Proporation: 88.67
+Total Cases: 204945
+New Cases: 0
+Total Deaths: 9655
+New Deaths: 0
+Total Recovered: 181725
+New Recovered: 0
+Total Cases: 13565
+Total Tests: 1023310
+Population: 3260736
+One Case Every X PPL: 16
+One Death Every X PPL: 338
+One Test Every X PPL:3
+Deaths 1M POP: 2961
+Serious Critical: 0
+Tests 1M POP: 313828
+Total Cases 1M POP: 62852
+
+ID: fa31ca96-486e-40a6-bc7a-8183fa4d4f4d
+Rank: 84
+Country: Europe
+Two Letter Symbol: mk
+Three Letter Symbol: mkd
+Infection Risk: 7.47
+Case Fatality Rate: 3.52
+Recovery Proporation: 96.33
+Total Cases: 155663
+New Cases: 0
+Total Deaths: 5484
+New Deaths: 0
+Total Recovered: 149946
+New Recovered: 0
+Total Cases: 233
+Total Tests: 867233
+Population: 2083290
+One Case Every X PPL: 13
+One Death Every X PPL: 380
+One Test Every X PPL:2
+Deaths 1M POP: 2632
+Serious Critical: 25
+Tests 1M POP: 416280
+Total Cases 1M POP: 74720
+
+ID: c56b2445-9a39-4fcd-89f8-8157a151e47f
+Rank: 89
+Country: Europe
+Two Letter Symbol: lv
+Three Letter Symbol: lva
+Infection Risk: 7.35
+Case Fatality Rate: 1.82
+Recovery Proporation: 97.22
+Total Cases: 137130
+New Cases: 0
+Total Deaths: 2501
+New Deaths: 0
+Total Recovered: 133313
+New Recovered: 0
+Total Cases: 1316
+Total Tests: 2869212
+Population: 1865657
+One Case Every X PPL: 14
+One Death Every X PPL: 746
+One Test Every X PPL:1
+Deaths 1M POP: 1341
+Serious Critical: 41
+Tests 1M POP: 1537910
+Total Cases 1M POP: 73502
+
+ID: c4d21fba-f453-4f12-a20e-47a2f4521173
+Rank: 90
+Country: Europe
+Two Letter Symbol: al
+Three Letter Symbol: alb
+Infection Risk: 4.61
+Case Fatality Rate: 1.85
+Recovery Proporation: 98.09
+Total Cases: 132506
+New Cases: 0
+Total Deaths: 2455
+New Deaths: 0
+Total Recovered: 129975
+New Recovered: 0
+Total Cases: 76
+Total Tests: 789809
+Population: 2874708
+One Case Every X PPL: 22
+One Death Every X PPL: 1171
+One Test Every X PPL:4
+Deaths 1M POP: 854
+Serious Critical: 3
+Tests 1M POP: 274744
+Total Cases 1M POP: 46094
+
+ID: a3c0642a-c4bd-4bfa-b3fb-8513ec5c469f
+Rank: 91
+Country: Europe
+Two Letter Symbol: ee
+Three Letter Symbol: est
+Infection Risk: 9.86
+Case Fatality Rate: 0.97
+Recovery Proporation: 97.05
+Total Cases: 130908
+New Cases: 0
+Total Deaths: 1269
+New Deaths: 0
+Total Recovered: 127046
+New Recovered: 0
+Total Cases: 2593
+Total Tests: 1511234
+Population: 1327412
+One Case Every X PPL: 10
+One Death Every X PPL: 1046
+One Test Every X PPL:1
+Deaths 1M POP: 956
+Serious Critical: 4
+Tests 1M POP: 1138481
+Total Cases 1M POP: 98619
+
+ID: 5e07724e-b1d8-487d-a02f-7f147d31fb5f
+Rank: 92
+Country: Europe
+Two Letter Symbol: no
+Three Letter Symbol: nor
+Infection Risk: 2.39
+Case Fatality Rate: 0.61
+Recovery Proporation: 68.25
+Total Cases: 130342
+New Cases: 0
+Total Deaths: 792
+New Deaths: 0
+Total Recovered: 88952
+New Recovered: 0
+Total Cases: 40598
+Total Tests: 6043353
+Population: 5462831
+One Case Every X PPL: 42
+One Death Every X PPL: 6898
+One Test Every X PPL:1
+Deaths 1M POP: 145
+Serious Critical: 6
+Tests 1M POP: 1106268
+Total Cases 1M POP: 23860
+
+ID: 9497cc4e-7027-4e88-bec7-3a9caa0fc784
+Rank: 97
+Country: Europe
+Two Letter Symbol: me
+Three Letter Symbol: mne
+Infection Risk: 15.94
+Case Fatality Rate: 1.61
+Recovery Proporation: 98.12
+Total Cases: 100145
+New Cases: 0
+Total Deaths: 1609
+New Deaths: 0
+Total Recovered: 98266
+New Recovered: 0
+Total Cases: 270
+Total Tests: 445012
+Population: 628144
+One Case Every X PPL: 6
+One Death Every X PPL: 390
+One Test Every X PPL:1
+Deaths 1M POP: 2562
+Serious Critical: 6
+Tests 1M POP: 708455
+Total Cases 1M POP: 159430
+
+ID: cbdfbc9c-53c3-46b5-bfd0-a1c1fe6d091e
+Rank: 99
+Country: Europe
+Two Letter Symbol: fi
+Three Letter Symbol: fin
+Infection Risk: 1.71
+Case Fatality Rate: 1.02
+Recovery Proporation: 48.56
+Total Cases: 94719
+New Cases: 0
+Total Deaths: 969
+New Deaths: 0
+Total Recovered: 46000
+New Recovered: 0
+Total Cases: 47750
+Total Tests: 5364635
+Population: 5549177
+One Case Every X PPL: 59
+One Death Every X PPL: 5727
+One Test Every X PPL:1
+Deaths 1M POP: 175
+Serious Critical: 5
+Tests 1M POP: 966744
+Total Cases 1M POP: 17069
+
+ID: 7d2ba13b-d852-4f39-81a0-3f880c2bb6e2
+Rank: 107
+Country: Europe
+Two Letter Symbol: lu
+Three Letter Symbol: lux
+Infection Risk: 11.1
+Case Fatality Rate: 1.16
+Recovery Proporation: 98.58
+Total Cases: 70600
+New Cases: 0
+Total Deaths: 818
+New Deaths: 0
+Total Recovered: 69596
+New Recovered: 0
+Total Cases: 186
+Total Tests: 3059505
+Population: 635947
+One Case Every X PPL: 9
+One Death Every X PPL: 777
+One Test Every X PPL:0
+Deaths 1M POP: 1286
+Serious Critical: 2
+Tests 1M POP: 4810943
+Total Cases 1M POP: 111016
+
+ID: 6fb135a7-7443-4a0b-80b3-72ceb783bd99
+Rank: 123
+Country: Europe
+Two Letter Symbol: mt
+Three Letter Symbol: mlt
+Infection Risk: 6.91
+Case Fatality Rate: 1.37
+Recovery Proporation: 98.53
+Total Cases: 30603
+New Cases: 0
+Total Deaths: 420
+New Deaths: 0
+Total Recovered: 30154
+New Recovered: 0
+Total Cases: 29
+Total Tests: 975102
+Population: 442698
+One Case Every X PPL: 14
+One Death Every X PPL: 1054
+One Test Every X PPL:0
+Deaths 1M POP: 949
+Serious Critical: 0
+Tests 1M POP: 2202635
+Total Cases 1M POP: 69128
+
+ID: db62a3a5-7144-4ed5-bf97-51ba32d646b2
+Rank: 144
+Country: Europe
+Two Letter Symbol: ad
+Three Letter Symbol: and
+Infection Risk: 17.94
+Case Fatality Rate: 0.91
+Recovery Proporation: 98.67
+Total Cases: 13882
+New Cases: 0
+Total Deaths: 127
+New Deaths: 0
+Total Recovered: 13697
+New Recovered: 0
+Total Cases: 58
+Total Tests: 193595
+Population: 77386
+One Case Every X PPL: 6
+One Death Every X PPL: 609
+One Test Every X PPL:0
+Deaths 1M POP: 1641
+Serious Critical: 3
+Tests 1M POP: 2501680
+Total Cases 1M POP: 179386
+
+ID: 6789681f-c28e-42fc-90b5-da5e48a7151b
+Rank: 164
+Country: Europe
+Two Letter Symbol: is
+Three Letter Symbol: isl
+Infection Risk: 1.93
+Case Fatality Rate: 0.45
+Recovery Proporation: 99.37
+Total Cases: 6637
+New Cases: 0
+Total Deaths: 30
+New Deaths: 0
+Total Recovered: 6595
+New Recovered: 0
+Total Cases: 12
+Total Tests: 749087
+Population: 343417
+One Case Every X PPL: 52
+One Death Every X PPL: 11447
+One Test Every X PPL:0
+Deaths 1M POP: 87
+Serious Critical: 1
+Tests 1M POP: 2181275
+Total Cases 1M POP: 19326
+
+ID: f5289779-1e35-4c9f-a234-a912a44115f6
+Rank: 171
+Country: Europe
+Two Letter Symbol: sm
+Three Letter Symbol: smr
+Infection Risk: 14.97
+Case Fatality Rate: 1.77
+Recovery Proporation: 98.23
+Total Cases: 5090
+New Cases: 0
+Total Deaths: 90
+New Deaths: 0
+Total Recovered: 5000
+New Recovered: 0
+Total Cases: 0
+Total Tests: 68045
+Population: 34001
+One Case Every X PPL: 7
+One Death Every X PPL: 378
+One Test Every X PPL:0
+Deaths 1M POP: 2647
+Serious Critical: 0
+Tests 1M POP: 2001265
+Total Cases 1M POP: 149701
+
+ID: fea453ce-6eb7-4972-8361-f740ebc5b2b4
+Rank: 173
+Country: Europe
+Two Letter Symbol: gi
+Three Letter Symbol: gib
+Infection Risk: 12.88
+Case Fatality Rate: 2.17
+Recovery Proporation: 97.21
+Total Cases: 4338
+New Cases: 0
+Total Deaths: 94
+New Deaths: 0
+Total Recovered: 4217
+New Recovered: 0
+Total Cases: 27
+Total Tests: 274885
+Population: 33681
+One Case Every X PPL: 8
+One Death Every X PPL: 358
+One Test Every X PPL:0
+Deaths 1M POP: 2791
+Serious Critical: 0
+Tests 1M POP: 8161426
+Total Cases 1M POP: 128797
+
+ID: c84a48b2-fe68-4606-9e7d-36dcf29178f4
+Rank: 174
+Country: Europe
+Two Letter Symbol: us
+Three Letter Symbol: usa
+Infection Risk: 2.4
+Case Fatality Rate: 2.04
+Recovery Proporation: 94.69
+Total Cases: 4218
+New Cases: 0
+Total Deaths: 86
+New Deaths: 0
+Total Recovered: 3994
+New Recovered: 0
+Total Cases: 138
+Total Tests: 563229
+Population: 175435
+One Case Every X PPL: 42
+One Death Every X PPL: 2040
+One Test Every X PPL:0
+Deaths 1M POP: 490
+Serious Critical: 0
+Tests 1M POP: 3210471
+Total Cases 1M POP: 24043
+
+ID: 4b4a4487-1fc2-4b2b-8677-8449f244eea8
+Rank: 180
+Country: Europe
+Two Letter Symbol: li
+Three Letter Symbol: lie
+Infection Risk: 7.93
+Case Fatality Rate: 1.95
+Recovery Proporation: 97.53
+Total Cases: 3032
+New Cases: 0
+Total Deaths: 59
+New Deaths: 0
+Total Recovered: 2957
+New Recovered: 0
+Total Cases: 16
+Total Tests: 49126
+Population: 38235
+One Case Every X PPL: 13
+One Death Every X PPL: 648
+One Test Every X PPL:1
+Deaths 1M POP: 1543
+Serious Critical: 3
+Tests 1M POP: 1284844
+Total Cases 1M POP: 79299
+
+ID: 2e1b9ad6-d905-4fc4-9d74-754c96af15e9
+Rank: 183
+Country: Europe
+Two Letter Symbol: mc
+Three Letter Symbol: mco
+Infection Risk: 6.5
+Case Fatality Rate: 1.28
+Recovery Proporation: 97.24
+Total Cases: 2570
+New Cases: 0
+Total Deaths: 33
+New Deaths: 0
+Total Recovered: 2499
+New Recovered: 0
+Total Cases: 38
+Total Tests: 51953
+Population: 39515
+One Case Every X PPL: 15
+One Death Every X PPL: 1197
+One Test Every X PPL:1
+Deaths 1M POP: 835
+Serious Critical: 1
+Tests 1M POP: 1314767
+Total Cases 1M POP: 65039
+
+ID: 3a3bdfec-5eb8-4135-a7c3-55ce8c530555
+Rank: 193
+Country: Europe
+Two Letter Symbol: im
+Three Letter Symbol: imn
+Infection Risk: 1.88
+Case Fatality Rate: 1.81
+Recovery Proporation: 97.82
+Total Cases: 1604
+New Cases: 0
+Total Deaths: 29
+New Deaths: 0
+Total Recovered: 1569
+New Recovered: 0
+Total Cases: 6
+Total Tests: 66925
+Population: 85475
+One Case Every X PPL: 53
+One Death Every X PPL: 2947
+One Test Every X PPL:1
+Deaths 1M POP: 339
+Serious Critical: 1
+Tests 1M POP: 782977
+Total Cases 1M POP: 18766
+
+ID: b6ae1049-4fc1-4c27-985e-1bc9ac42a671
+Rank: 196
+Country: Europe
+Two Letter Symbol: fo
+Three Letter Symbol: fro
+Infection Risk: 1.57
+Case Fatality Rate: 0.13
+Recovery Proporation: 98.31
+Total Cases: 770
+New Cases: 0
+Total Deaths: 1
+New Deaths: 0
+Total Recovered: 757
+New Recovered: 0
+Total Cases: 12
+Total Tests: 303504
+Population: 49045
+One Case Every X PPL: 64
+One Death Every X PPL: 49045
+One Test Every X PPL:0
+Deaths 1M POP: 20
+Serious Critical: 0
+Tests 1M POP: 6188276
+Total Cases 1M POP: 15700
+
+ID: 620f8e3d-5b57-4995-ac8f-76e48c890e4a
+Rank: 211
+Country: Europe
+Two Letter Symbol: va
+Three Letter Symbol: vat
+Infection Risk: 3.36
+Case Fatality Rate: 0
+Recovery Proporation: 100
+Total Cases: 27
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 27
+New Recovered: 0
+Total Cases: 0
+Total Tests: 0
+Population: 803
+One Case Every X PPL: 30
+One Death Every X PPL: 0
+One Test Every X PPL:0
+Deaths 1M POP: 0
+Serious Critical: 0
+Tests 1M POP: 0
+Total Cases 1M POP: 33624
+

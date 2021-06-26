@@ -59,7 +59,7 @@ def update(first_part, second_part, country):
                         "Deaths 1M POP: " + str(parsed_json[parsed_json.index(i)]['Deaths_1M_pop']) + '\n' +
                         "Serious Critical: " + str(parsed_json[parsed_json.index(i)]['Serious_Critical']) + '\n' +
                         "Tests 1M POP: " + str(parsed_json[parsed_json.index(i)]['Tests_1M_Pop']) + '\n' +
-                        "Total Cases 1M POP: " + str(parsed_json[parsed_json.index(i)]['TotCases_1M_Pop'])
+                        "Total Cases 1M POP: " + str(parsed_json[parsed_json.index(i)]['TotCases_1M_Pop']) + '\n\n'
                 )
         return statistics
 
@@ -155,9 +155,28 @@ def welcome(message):
     markup.add(item)
 
     bot.send_message(message.chat.id,
-                     '''Welcome, {0.first_name}!\nMy name is <b>{1.first_name}</b>.\nI was created to inform you about Corona Virus statistics in Europe!'''.format(
+                     "Hello, my friend!\n" +
+                     'I was created to inform you about Corona Virus statistics in Europe!\n\n' +
+                     'Command list:\n' +
+                     '    /start - To start.\n' +
+                     '    /statistics_txt - Get statistics.\n'.format(
                          message.from_user, bot.get_me()),
                      parse_mode="html", reply_markup=markup)
+
+
+@bot.message_handler(commands=['statistics_txt'])
+def get_information_txt(message):
+    bot.send_message(message.chat.id, "Wait a moment...")
+    file_txt = open("COVID-19_Statistics_Of_European_Countries.txt", "w")
+    text_txt = ''
+    for i in update(True, False, None):
+        text_txt += update(False, True, i)
+    file_txt.write(text_txt)
+    file_txt.close()
+    bot.send_document(message.chat.id,
+                      open(
+                          r'D:/ALMA MATER/Перший курс/Другий семестр/Програмування/Python/TelegramBot/COVID-19_Statistics_Of_European_Countries.txt',
+                          'rb'))
 
 
 ## Створюємо реакцію бота на повідомлення.

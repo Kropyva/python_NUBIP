@@ -49,3 +49,9 @@ Cкачуємо пакети для бота.
 ![Screenshot_9](https://user-images.githubusercontent.com/65035716/123501194-c4592580-d64b-11eb-8b5a-133bcfd3bbba.jpg)
 
 ![Screenshot_10](https://user-images.githubusercontent.com/65035716/123501196-cc18ca00-d64b-11eb-9a25-b888323147f9.jpg)
+
+# Updated.
+
+Added /statistics_txt command - Get a 'file'.txt wist statistics.
+
+![Screenshot_11](https://user-images.githubusercontent.com/65035716/123504294-f628b700-d660-11eb-8c03-3acf1a0bde46.jpg)
